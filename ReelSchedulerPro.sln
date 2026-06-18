@@ -1,18 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.8.34309.116
+VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Api", "src\ReelSchedulerPro.Api\ReelSchedulerPro.Api.csproj", "{A1B2C3D4-E5F6-47G8-9H0I-1J2K3L4M5N6O}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Api", "src\ReelSchedulerPro.Api\ReelSchedulerPro.Api.csproj", "{11111111-1111-1111-1111-111111111111}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Application", "src\ReelSchedulerPro.Application\ReelSchedulerPro.Application.csproj", "{B1C2D3E4-F5G6-47H8-9I0J-2K3L4M5N6O7P}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Application", "src\ReelSchedulerPro.Application\ReelSchedulerPro.Application.csproj", "{22222222-2222-2222-2222-222222222222}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Domain", "src\ReelSchedulerPro.Domain\ReelSchedulerPro.Domain.csproj", "{C1D2E3F4-G5H6-47I8-9J0K-3L4M5N6O7P8Q}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Domain", "src\ReelSchedulerPro.Domain\ReelSchedulerPro.Domain.csproj", "{33333333-3333-3333-3333-333333333333}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Infrastructure", "src\ReelSchedulerPro.Infrastructure\ReelSchedulerPro.Infrastructure.csproj", "{D1E2F3G4-H5I6-47J8-9K0L-4M5N6O7P8Q9R}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Infrastructure", "src\ReelSchedulerPro.Infrastructure\ReelSchedulerPro.Infrastructure.csproj", "{44444444-4444-4444-4444-444444444444}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Worker", "src\ReelSchedulerPro.Worker\ReelSchedulerPro.Worker.csproj", "{E1F2G3H4-I5J6-47K8-9L0M-5N6O7P8Q9R0S}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Worker", "src\ReelSchedulerPro.Worker\ReelSchedulerPro.Worker.csproj", "{55555555-5555-5555-5555-555555555555}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Shared", "src\ReelSchedulerPro.Shared\ReelSchedulerPro.Shared.csproj", "{F1G2H3I4-J5K6-47L8-9M0N-6O7P8Q9R0S1T}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReelSchedulerPro.Shared", "src\ReelSchedulerPro.Shared\ReelSchedulerPro.Shared.csproj", "{66666666-6666-6666-6666-666666666666}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,29 +20,29 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A1B2C3D4-E5F6-47G8-9H0I-1J2K3L4M5N6O}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1B2C3D4-E5F6-47G8-9H0I-1J2K3L4M5N6O}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1B2C3D4-E5F6-47G8-9H0I-1J2K3L4M5N6O}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1B2C3D4-E5F6-47G8-9H0I-1J2K3L4M5N6O}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B1C2D3E4-F5G6-47H8-9I0J-2K3L4M5N6O7P}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B1C2D3E4-F5G6-47H8-9I0J-2K3L4M5N6O7P}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B1C2D3E4-F5G6-47H8-9I0J-2K3L4M5N6O7P}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B1C2D3E4-F5G6-47H8-9I0J-2K3L4M5N6O7P}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1D2E3F4-G5H6-47I8-9J0K-3L4M5N6O7P8Q}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1D2E3F4-G5H6-47I8-9J0K-3L4M5N6O7P8Q}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1D2E3F4-G5H6-47I8-9J0K-3L4M5N6O7P8Q}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1D2E3F4-G5H6-47I8-9J0K-3L4M5N6O7P8Q}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D1E2F3G4-H5I6-47J8-9K0L-4M5N6O7P8Q9R}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1E2F3G4-H5I6-47J8-9K0L-4M5N6O7P8Q9R}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D1E2F3G4-H5I6-47J8-9K0L-4M5N6O7P8Q9R}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D1E2F3G4-H5I6-47J8-9K0L-4M5N6O7P8Q9R}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E1F2G3H4-I5J6-47K8-9L0M-5N6O7P8Q9R0S}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1F2G3H4-I5J6-47K8-9L0M-5N6O7P8Q9R0S}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1F2G3H4-I5J6-47K8-9L0M-5N6O7P8Q9R0S}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1F2G3H4-I5J6-47K8-9L0M-5N6O7P8Q9R0S}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1G2H3I4-J5K6-47L8-9M0N-6O7P8Q9R0S1T}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1G2H3I4-J5K6-47L8-9M0N-6O7P8Q9R0S1T}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1G2H3I4-J5K6-47L8-9M0N-6O7P8Q9R0S1T}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1G2H3I4-J5K6-47L8-9M0N-6O7P8Q9R0S1T}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11111111-1111-1111-1111-111111111111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11111111-1111-1111-1111-111111111111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11111111-1111-1111-1111-111111111111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11111111-1111-1111-1111-111111111111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22222222-2222-2222-2222-222222222222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22222222-2222-2222-2222-222222222222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22222222-2222-2222-2222-222222222222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22222222-2222-2222-2222-222222222222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33333333-3333-3333-3333-333333333333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33333333-3333-3333-3333-333333333333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33333333-3333-3333-3333-333333333333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33333333-3333-3333-3333-333333333333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44444444-4444-4444-4444-444444444444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44444444-4444-4444-4444-444444444444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44444444-4444-4444-4444-444444444444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44444444-4444-4444-4444-444444444444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55555555-5555-5555-5555-555555555555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55555555-5555-5555-5555-555555555555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55555555-5555-5555-5555-555555555555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55555555-5555-5555-5555-555555555555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66666666-6666-6666-6666-666666666666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66666666-6666-6666-6666-666666666666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66666666-6666-6666-6666-666666666666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66666666-6666-6666-6666-666666666666}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
